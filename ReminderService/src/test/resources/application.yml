@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+#      authentication-database: dbAdmin
+     
+      database: userDb
+      port: 27017
+      host: localhost
+server:
+  port: 8080
+
+
+
